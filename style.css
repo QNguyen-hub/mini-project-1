@@ -1,0 +1,40 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+h3 {
+    display: inline;
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+}
+P {
+    text-align: center;
+}
+#navbar {
+    background-color: antiquewhite;
+}
+#container1 {
+    background-color: cadetblue;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* #footer {
+    background-color: aqua;
+    border: 5px solid blue;
+} */
+form {
+    padding-left: 40%;
+    border: 1px solid blanchedalmond;
+    background-color: aquamarine;
+}
